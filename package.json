@@ -1,0 +1,21 @@
+{
+  "name": "synker",
+  "version": "0.0.1",
+  "description": "Watch a local directory and keep it synced with a remote directory.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "synker": "./synker"
+  },
+  "author": "James Gill <jamesagill@gmail.com> (https://github.com/jagill)",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.2",
+    "commander": "^2.8.1",
+    "pvc": "0.0.2",
+    "pvc-file": "0.0.3",
+    "rsync": "^0.4.0"
+  }
+}

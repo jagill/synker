@@ -13,8 +13,8 @@
   "license": "MIT",
   "dependencies": {
     "coffee-script": "^1.9.2",
-    "commander": "^2.8.1",
-    "pvc": "0.0.2",
+    "commander": "^2.9.0",
+    "pvc": "0.0.6",
     "pvc-file": "0.0.3",
     "rsync": "^0.4.0"
   }
